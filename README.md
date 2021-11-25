@@ -1,11 +1,13 @@
 # proffy
 projeto realizado para aprendizado das tecnologias react, react-native e node
 
+para iniciar o projeto, realizar os seguintes comandos:
 
-para iniciar o projeto, rodar o seguinte comando em algum terminal dentro da pasta:
-
+na pasta server:
+npm install
+npm run knex:migrate
 npm start
 
-ou
-
-yarn start
+na pasta web:
+npm install
+npm start
